@@ -1,4 +1,4 @@
- ## Jobs @ Hopkins
+## Jobs @ Hopkins
 
 
 ### Faculty Research Associate
@@ -50,6 +50,16 @@ If you are a grad student who is interested in applying for postdoctoral funding
 ### About our group
 
 The Leek group is committed to being a welcoming place to all students, postdocs, faculty and collaborators (see our [Code of Conduct](https://github.com/jtleek/coc/blob/main/README.md)). We work together on projects, share credit liberally, encourage and support each other, and try to solve problems that make the world a better place. We have hired economists, computer scientists, geneticists, biologists, social workers, and everything in between. We have hired people with everything from GED level education to postdoctoral level education and all are treated equally as team contributors. We support flexible work arrangements, remote work, and are committed to life-work balance in everything we do. We believe excellence is defined broadly and want to encourage people to build on their personal strengths and learn new things. We have a great track record of helping people achieve their goals in research, careers, and life and would love to work with you!
+
+
+ ## Jobs @ Streamline
+ 
+Do you like making tidy data and making people happy? Come work with @StrictlyStat and I as a lead data scientist at streamlinedatascience.io. Fun, friendly, supportive environment, helping companies manage and tidy their data. More info: https://drive.google.com/file/d/1uGNlCARCqaO1bUSiK2JBGVd8gCrI88SH/
+
+Apply by sending your resume/cover letter/Github to: apply@streamlinedatascience.io
+ 
+ 
+
 
 
 
