@@ -1,16 +1,18 @@
 ## Jobs @ Hopkins
 
 
-### Faculty Research Associate
-
-The Department of Biostatistics at the Johns Hopkins Bloomberg School of Public Health has openings for multiple remote-work friendly Research Associate positions in biomedical data science.  The Research Associate candidate will devote primary effort to data science research and education focusing on genomics, cancer or pain. These positions are supported by three grants:
+### Postdoctoral Fellows
 
 
-* __The A2CPS Project__ -  a large-scale study of the transition from acute to chronic pain that will collect data from 3,600 people who have recently had surgery and track them for a 6-month period. The goal is to develop a set of biomarkers, or “signatures”, that can predict whether a person will transition to chronic pain or be resilient. These signatures use measurements, including those from a patient’s genetics, genomics, inflammation, metabolic pathways, brain structure, and brain function. The candidate will be in charge of working with the longitudinal omics data collected during the study, including exRNA, genetic variants, proteomic, lipidomic, and metabolomic data. This includes creating pipelines and workflows, evaluating data quality, creating training materials, analyzing data, and interacting with partner sites.
-* __The AnVIL Training Network__ -  which focuses on developing genomic training material for data scientists to use the NHGRI’s new cloud computing platform: https://anvilproject.org/. The candidate will be in charge of developing new training material, creating genomic data science workflows and pipelines for sharing with the community, and collaborating with partner institutions and the Genomic Data Science Community Network (http://www.gdscn.org/) to ensure access to data science training across institutions ranging from large R1 centers to Historically Black Colleges and Universities, Minority Serving Institutions, Tribal Colleges and Community Colleges.
-* __The ITCR Training Network__ - which focuses on developing data science training material focused on the ITCR program (https://itcr.cancer.gov/) tools and technologies. The candidate will be focused on the development of scalable training materials focused on cancer data science and working with partner institutions to deliver these training materials to researchers around the US. The candidate will also work with the ITCR Train the Trainers program to ensure that training is accessible to faculty at Historically Black Colleges and Universities, Minority Serving Institutions, Tribal Colleges and Community Colleges.
+The Department of Biostatistics at the Johns Hopkins Bloomberg School of Public Health has openings for two remote-friendly Teaching Postdoctoral Fellowships in genomics data science.  This exciting opportunity provides successful candidates the chance to leverage the unique educational technology developed by the JHU Data Science Lab (jhudatascience.org) to create scalable online data science education for the NHGRI's Analysis Visualization and Informatics Lab-space (anvilproject.org).  At least two years of funding are available to support a mix of:
+Content Development 
+ * Create new educational content using the JHU Data Science Lab EdTech stack, including ari for automated lecture-to-video production, Bookdown for compiling course materials, and Leanpub/Coursera for distributing resources
+Training Activities
+ * Organize and support a dynamic mix of activities to most effectively train researchers and students through hands-on workshops, embedded classroom modules, standing office hours, and asynchronous support channels (e.g. Discourse based platform at help.anvilproject.org)
 
-[Apply Here](https://apply.interfolio.com/81395)
+Read more and find application instructions here: 
+https://github.com/jtleek/jtleek.github.io/blob/master/Teaching%20Postdoctoral%20Fellowships%20in%20Genomics%20Data%20Science.pdf
+
 
 ### For current students at Johns Hopkins
 
