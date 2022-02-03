@@ -1,18 +1,6 @@
 ## Jobs @ Hopkins
 
 
-### Postdoctoral Fellows
-
-
-The Department of Biostatistics at the Johns Hopkins Bloomberg School of Public Health has openings for two remote-friendly Teaching Postdoctoral Fellowships in genomics data science.  This exciting opportunity provides successful candidates the chance to leverage the unique educational technology developed by the JHU Data Science Lab (jhudatascience.org) to create scalable online data science education for the NHGRI's Analysis Visualization and Informatics Lab-space (anvilproject.org).  At least two years of funding are available to support a mix of:
-Content Development 
- * Create new educational content using the JHU Data Science Lab EdTech stack, including ari for automated lecture-to-video production, Bookdown for compiling course materials, and Leanpub/Coursera for distributing resources
-Training Activities
- * Organize and support a dynamic mix of activities to most effectively train researchers and students through hands-on workshops, embedded classroom modules, standing office hours, and asynchronous support channels (e.g. Discourse based platform at help.anvilproject.org)
-
-Read more and find application instructions here: 
-https://github.com/jtleek/jtleek.github.io/blob/master/Teaching%20Postdoctoral%20Fellowships%20in%20Genomics%20Data%20Science.pdf
-
 
 ### For current students at Johns Hopkins
 
