@@ -1,10 +1,10 @@
-## Jobs @ Hopkins
+## Jobs @ Fred Hutch
 
 
 
-### For current students at Johns Hopkins
+### For current students at University of Washington
 
-If you are a current Hopkins student and are interested in working with me come by my office any time the door is open and I'll be happy to talk about open projects. 
+If you are a current University of Wasthington student and are interested in working with me come by my office any time the door is open and I'll be happy to talk about open projects. 
 
 I am always excited to talk to students about new projects, it is the [best part of the job](http://simplystatistics.org/2012/10/26/i-love-those-first-discussions-about-a-new-research/)
 
@@ -17,9 +17,9 @@ I will be extra pumped to talk to you if:
 
 If our projects don't seem that interesting to you, I'm also happy to help introduce you to other folks in data science or genomics who might have projects you are more interested in. 
 
-### For prospective students at Johns Hopkins
+### For prospective students at University of Washington
 
-I mostly supervise students from [Biostatistics](http://www.jhsph.edu/departments/biostatistics/), but am also excited to work with students in any department at JHU. I am not on the admissions committee so I pretty much don't have any say over whether you will get admitted. But if you want to do a Ph.D. at Hopkins Biostat and you: (1) have the serious math chops to get through our program (it is at the top end of rigor among Biostat programs) and (2) have written a cool R package and put it on Github or done an awesome data analysis and posted it on the web, then I want to hear from you. Send me an email with your CV attached, a link to your project, and a one liner about the coolest research project you can think of that relates to anything me or any of my colleagues do. I'll make sure the right people see your application. 
+I mostly supervise students from [Biostatistics]([http://www.jhsph.edu/departments/biostatistics/](https://www.biostat.washington.edu/)), but am also excited to work with students in any department at UW. I am not on the admissions committee so I pretty much don't have any say over whether you will get admitted. But if you want to do a Ph.D. at UW and have written a cool R package and put it on Github or done an awesome data analysis and posted it on the web, then I want to hear from you! Send me an email with your CV attached, a link to your project, and a one liner about the coolest research project you can think of that relates to anything me or any of my colleagues do. I'll make sure the right people see your application. 
 
 ### For prospective postdocs
 
@@ -33,8 +33,7 @@ Here are the minimum things I look for in a postdoc:
 * Has read about our projects and is excited about being a leader on one or more of them 
 * Has at least one idea they want to work on unrelated to their dissertation
 
-If you are interested in doing a postdoc send me an email with your CV and a short (one paragraph) description of a research project you have imagined working on. 
-If you are a grad student who is interested in applying for postdoctoral funding through NSF, NIH, or another funding source and want to work with me, send me an email with the above information and I'll be happy to help you with your application. 
+If you are interested in doing a postdoc send me an email with your CV and a short (one paragraph) description of a research project you have imagined working on. If you are a grad student who is interested in applying for postdoctoral funding through NSF, NIH, or another funding source and want to work with me, send me an email with the above information and I'll be happy to help you with your application. You can also check out job openings by going to the [Fred Hutch Postdoc Openings Webpage](https://www.fredhutch.org/en/about/careers/job-openings.html?c=C19774) and searching for Leek under the keyword. 
 
 
 ### About our group
@@ -44,9 +43,7 @@ The Leek group is committed to being a welcoming place to all students, postdocs
 
 ## Jobs @ Streamline
  
-Do you like making tidy data and making people happy? Come work with @StrictlyStat and I as a lead data scientist at streamlinedatascience.io. Fun, friendly, supportive environment, helping companies manage and tidy their data. More info: https://drive.google.com/file/d/1uGNlCARCqaO1bUSiK2JBGVd8gCrI88SH/
-
-Apply by sending your resume/cover letter/Github to: apply@streamlinedatascience.io
+Do you like making tidy data and making people happy? Come work with @StrictlyStat and I as a lead data scientist at streamlinedatascience.io. Fun, friendly, supportive environment, helping companies manage and tidy their data. Reach out to me or John if you are interested. 
  
  
 
