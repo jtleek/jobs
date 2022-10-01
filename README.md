@@ -29,7 +29,7 @@ Here are the minimum things I look for in a postdoc:
 
 * Completed a PhD in a relevant data-oriented field 
 * Has experience in using data to answer interesting questions
-* [Problem forward philosophy](http://simplystatistics.org/2013/05/29/what-statistics-should-do-about-big-data-problem-forward-not-solution-backward/)
+* [Problem forward philosophy](https://simplystatistics.org/posts/2013-05-29-what-statistics-should-do-about-big-data-problem-forward-not-solution-backward/)
 * Has read about our projects and is excited about being a leader on one or more of them 
 * Has at least one idea they want to work on unrelated to their dissertation
 
