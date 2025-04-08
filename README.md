@@ -41,9 +41,10 @@ If you are interested in doing a postdoc send me an email with your CV and a sho
 The Leek group is committed to being a welcoming place to all students, postdocs, faculty and collaborators (see our [Code of Conduct](https://github.com/jtleek/coc/blob/main/README.md)). We work together on projects, share credit liberally, encourage and support each other, and try to solve problems that make the world a better place. We have hired economists, computer scientists, geneticists, biologists, social workers, and everything in between. We have hired people with everything from GED level education to postdoctoral level education and all are treated equally as team contributors. We support flexible work arrangements, remote work, and are committed to life-work balance in everything we do. We believe excellence is defined broadly and want to encourage people to build on their personal strengths and learn new things. We have a great track record of helping people achieve their goals in research, careers, and life and would love to work with you!
 
 
-## Jobs @ Streamline
+## Jobs @ Synthesize
  
-Do you like making tidy data and making people happy? Come work with @StrictlyStat and I as a lead data scientist at streamlinedatascience.io. Fun, friendly, supportive environment, helping companies manage and tidy their data. Reach out to me or John if you are interested. 
+Are you interested in building large experimental biology AI models to help scientists do their work faster? We started a company called Synthesize Bio that is creating this future. You can find open jobs here: [https://www.synthesize.bio/careers](https://www.synthesize.bio/careers)
+
  
  
 
